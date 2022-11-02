@@ -16,6 +16,7 @@ I am an IT student 💻 at the ORT university in Uruguay , and then I will leave
 - C#
 - JAVA
 - .NET
+- SQL
 
 ## 🤸‍♀️ My Top Skills 
 - Proficient in coding languages such as HTML, CSS, JavaScript, and jQuery
